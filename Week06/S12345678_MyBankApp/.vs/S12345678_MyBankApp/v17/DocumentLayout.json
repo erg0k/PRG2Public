@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|c:\\users\\regen wong\\downloads\\week06\\S12345678_mybankapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|c:\\users\\regen wong\\downloads\\week06\\S12345678_mybankapp\\savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|solutionrelative:savingsaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|c:\\users\\regen wong\\downloads\\week06\\S12345678_mybankapp\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|c:\\users\\regen wong\\downloads\\week06\\S12345678_mybankapp\\savings_account.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3F20087A-487F-4112-8778-6B28113AD24C}|S12345678_MyBankApp.csproj|solutionrelative:savings_account.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "savings_account.csv",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\savings_account.csv",
+              "RelativeDocumentMoniker": "savings_account.csv",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\savings_account.csv",
+              "RelativeToolTip": "savings_account.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-11T03:54:34.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SavingsAccount.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\SavingsAccount.cs",
+              "RelativeDocumentMoniker": "SavingsAccount.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\SavingsAccount.cs",
+              "RelativeToolTip": "SavingsAccount.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:52:59.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAA5wCoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:49:14.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week06\\S12345678_MyBankApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAuwIsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T03:47:38.615Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

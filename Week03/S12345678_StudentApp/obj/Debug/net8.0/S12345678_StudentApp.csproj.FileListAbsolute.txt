@@ -1,0 +1,15 @@
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\S12345678_StudentApp.exe
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\S12345678_StudentApp.deps.json
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\S12345678_StudentApp.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\S12345678_StudentApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\S12345678_StudentApp.pdb
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\refint\S12345678_StudentApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.pdb
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\S12345678_StudentApp.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\obj\Debug\net8.0\ref\S12345678_StudentApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_StudentApp\bin\Debug\net8.0\Students.csv

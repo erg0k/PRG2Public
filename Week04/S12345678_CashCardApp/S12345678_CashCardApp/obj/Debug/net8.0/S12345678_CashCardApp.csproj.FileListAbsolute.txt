@@ -1,0 +1,14 @@
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\bin\Debug\net8.0\S12345678_CashCardApp.exe
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\bin\Debug\net8.0\S12345678_CashCardApp.deps.json
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\bin\Debug\net8.0\S12345678_CashCardApp.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\bin\Debug\net8.0\S12345678_CashCardApp.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\bin\Debug\net8.0\S12345678_CashCardApp.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\refint\S12345678_CashCardApp.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\S12345678_CashCardApp.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week04\S12345678_CashCardApp\S12345678_CashCardApp\obj\Debug\net8.0\ref\S12345678_CashCardApp.dll

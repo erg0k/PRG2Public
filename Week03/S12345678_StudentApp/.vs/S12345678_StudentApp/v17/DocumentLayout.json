@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REGEN WONG\\Downloads\\Week03\\S12345678_StudentApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAAFC4B-10D4-4510-9523-62456400E8B6}|S12345678_StudentApp.csproj|c:\\users\\regen wong\\downloads\\week03\\S12345678_studentapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BDAAFC4B-10D4-4510-9523-62456400E8B6}|S12345678_StudentApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDAAFC4B-10D4-4510-9523-62456400E8B6}|S12345678_StudentApp.csproj|c:\\users\\regen wong\\downloads\\week03\\S12345678_studentapp\\students.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{BDAAFC4B-10D4-4510-9523-62456400E8B6}|S12345678_StudentApp.csproj|solutionrelative:students.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week03\\S12345678_StudentApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week03\\S12345678_StudentApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAwwD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T08:19:04.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Students.csv",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\Week03\\S12345678_StudentApp\\Students.csv",
+              "RelativeDocumentMoniker": "Students.csv",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\Week03\\S12345678_StudentApp\\Students.csv",
+              "RelativeToolTip": "Students.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-26T08:16:25.831Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

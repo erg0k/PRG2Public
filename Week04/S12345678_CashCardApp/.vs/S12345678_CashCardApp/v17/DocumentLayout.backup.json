@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\Week04\\S12345678_CashCardApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB47CD3-DBE3-4521-96F7-0C5E25652BFB}|S12345678_CashCardApp\\S12345678_CashCardApp.csproj|c:\\users\\regen wong\\downloads\\prg2\\week04\\S12345678_cashcardapp\\S12345678_cashcardapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB47CD3-DBE3-4521-96F7-0C5E25652BFB}|S12345678_CashCardApp\\S12345678_CashCardApp.csproj|solutionrelative:S12345678_cashcardapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADB47CD3-DBE3-4521-96F7-0C5E25652BFB}|S12345678_CashCardApp\\S12345678_CashCardApp.csproj|c:\\users\\regen wong\\downloads\\prg2\\week04\\S12345678_cashcardapp\\S12345678_cashcardapp\\cashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADB47CD3-DBE3-4521-96F7-0C5E25652BFB}|S12345678_CashCardApp\\S12345678_CashCardApp.csproj|solutionrelative:S12345678_cashcardapp\\cashcard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CashCard.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\Week04\\S12345678_CashCardApp\\S12345678_CashCardApp\\CashCard.cs",
+              "RelativeDocumentMoniker": "S12345678_CashCardApp\\CashCard.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\Week04\\S12345678_CashCardApp\\S12345678_CashCardApp\\CashCard.cs",
+              "RelativeToolTip": "S12345678_CashCardApp\\CashCard.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAA5wDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:07:38.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\Week04\\S12345678_CashCardApp\\S12345678_CashCardApp\\Program.cs",
+              "RelativeDocumentMoniker": "S12345678_CashCardApp\\Program.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\Week04\\S12345678_CashCardApp\\S12345678_CashCardApp\\Program.cs",
+              "RelativeToolTip": "S12345678_CashCardApp\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwDcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T01:47:32.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

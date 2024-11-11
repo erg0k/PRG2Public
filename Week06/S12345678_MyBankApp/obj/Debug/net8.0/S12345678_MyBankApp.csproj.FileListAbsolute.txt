@@ -1,0 +1,15 @@
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\savings_account.csv
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\S12345678_MyBankApp.exe
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\S12345678_MyBankApp.deps.json
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\S12345678_MyBankApp.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\S12345678_MyBankApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\bin\Debug\net8.0\S12345678_MyBankApp.pdb
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\refint\S12345678_MyBankApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.pdb
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\S12345678_MyBankApp.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyBankApp\obj\Debug\net8.0\ref\S12345678_MyBankApp.dll

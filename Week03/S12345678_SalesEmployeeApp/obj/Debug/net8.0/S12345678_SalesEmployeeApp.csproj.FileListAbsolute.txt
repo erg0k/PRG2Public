@@ -1,0 +1,14 @@
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\bin\Debug\net8.0\S12345678_SalesEmployeeApp.exe
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\bin\Debug\net8.0\S12345678_SalesEmployeeApp.deps.json
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\bin\Debug\net8.0\S12345678_SalesEmployeeApp.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\bin\Debug\net8.0\S12345678_SalesEmployeeApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\bin\Debug\net8.0\S12345678_SalesEmployeeApp.pdb
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\refint\S12345678_SalesEmployeeApp.dll
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.pdb
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\S12345678_SalesEmployeeApp.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\Week03\S12345678_SalesEmployeeApp\obj\Debug\net8.0\ref\S12345678_SalesEmployeeApp.dll

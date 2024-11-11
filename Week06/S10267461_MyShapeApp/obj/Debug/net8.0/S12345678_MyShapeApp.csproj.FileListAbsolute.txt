@@ -1,0 +1,14 @@
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\bin\Debug\net8.0\S12345678_MyShapeApp.exe
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\bin\Debug\net8.0\S12345678_MyShapeApp.deps.json
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\bin\Debug\net8.0\S12345678_MyShapeApp.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\bin\Debug\net8.0\S12345678_MyShapeApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\bin\Debug\net8.0\S12345678_MyShapeApp.pdb
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\refint\S12345678_MyShapeApp.dll
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.pdb
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\S12345678_MyShapeApp.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\Week06\S12345678_MyShapeApp\obj\Debug\net8.0\ref\S12345678_MyShapeApp.dll

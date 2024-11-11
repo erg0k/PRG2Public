@@ -1,0 +1,110 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|c:\\users\\regen wong\\downloads\\s12345678_farecalculatorapp\\s12345678_farecalculatorapp\\distance-based-fare.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|solutionrelative:s12345678_farecalculatorapp\\distance-based-fare.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|c:\\users\\regen wong\\downloads\\s12345678_farecalculatorapp\\s12345678_farecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|solutionrelative:s12345678_farecalculatorapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|c:\\users\\regen wong\\downloads\\s12345678_farecalculatorapp\\s12345678_farecalculatorapp\\busstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|solutionrelative:s12345678_farecalculatorapp\\busstop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|c:\\users\\regen wong\\downloads\\s12345678_farecalculatorapp\\s12345678_farecalculatorapp\\bus_174.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|solutionrelative:s12345678_farecalculatorapp\\bus_174.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|c:\\users\\regen wong\\downloads\\s12345678_farecalculatorapp\\s12345678_farecalculatorapp\\fare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83E727F4-10C7-4060-9F4D-E49BB268A1D4}|S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp.csproj|solutionrelative:s12345678_farecalculatorapp\\fare.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Fare.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\Fare.cs",
+              "RelativeDocumentMoniker": "S12345678_FareCalculatorApp\\Fare.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\Fare.cs",
+              "RelativeToolTip": "S12345678_FareCalculatorApp\\Fare.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:42:24.739Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "distance-based-fare.csv",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\distance-based-fare.csv",
+              "RelativeDocumentMoniker": "S12345678_FareCalculatorApp\\distance-based-fare.csv",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\distance-based-fare.csv",
+              "RelativeToolTip": "S12345678_FareCalculatorApp\\distance-based-fare.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-11T10:43:13.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\Program.cs",
+              "RelativeDocumentMoniker": "S12345678_FareCalculatorApp\\Program.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\Program.cs",
+              "RelativeToolTip": "S12345678_FareCalculatorApp\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCwAAABNAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:36:33.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "bus_174.csv",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\bus_174.csv",
+              "RelativeDocumentMoniker": "S12345678_FareCalculatorApp\\bus_174.csv",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\bus_174.csv",
+              "RelativeToolTip": "S12345678_FareCalculatorApp\\bus_174.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-10-28T02:48:12.785Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BusStop.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\BusStop.cs",
+              "RelativeDocumentMoniker": "S12345678_FareCalculatorApp\\BusStop.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\S12345678_FareCalculatorApp\\S12345678_FareCalculatorApp\\BusStop.cs",
+              "RelativeToolTip": "S12345678_FareCalculatorApp\\BusStop.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAA5wDAAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T02:37:14.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

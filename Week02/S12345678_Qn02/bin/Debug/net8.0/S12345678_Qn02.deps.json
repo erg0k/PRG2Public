@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "S12345678_Qn02/1.0.0": {
+        "runtime": {
+          "S12345678_Qn02.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "S12345678_Qn02/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
