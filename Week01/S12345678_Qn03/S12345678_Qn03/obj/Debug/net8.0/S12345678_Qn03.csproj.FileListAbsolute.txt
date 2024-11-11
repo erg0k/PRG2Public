@@ -1,0 +1,14 @@
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\bin\Debug\net8.0\S12345678_Qn03.exe
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\bin\Debug\net8.0\S12345678_Qn03.deps.json
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\bin\Debug\net8.0\S12345678_Qn03.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\bin\Debug\net8.0\S12345678_Qn03.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\bin\Debug\net8.0\S12345678_Qn03.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\refint\S12345678_Qn03.dll
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\S12345678_Qn03.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\PRG2\Week01\S12345678_Qn03\S12345678_Qn03\obj\Debug\net8.0\ref\S12345678_Qn03.dll

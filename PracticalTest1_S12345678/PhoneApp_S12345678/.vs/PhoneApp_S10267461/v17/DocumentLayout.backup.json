@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|c:\\users\\regen wong\\downloads\\prg2\\practicaltest1_S12345678\\phoneapp_S12345678\\phoneapp_S12345678\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|solutionrelative:phoneapp_S12345678\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|c:\\users\\regen wong\\downloads\\prg2\\practicaltest1_S12345678\\phoneapp_S12345678\\phoneapp_S12345678\\phonedetails.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|solutionrelative:phoneapp_S12345678\\phonedetails.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|c:\\users\\regen wong\\downloads\\prg2\\practicaltest1_S12345678\\phoneapp_S12345678\\phoneapp_S12345678\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A7FE825-4755-4F9C-B051-1986C3105795}|PhoneApp_S12345678\\PhoneApp_S12345678.csproj|solutionrelative:phoneapp_S12345678\\phone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PhoneDetails.csv",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\PhoneDetails.csv",
+              "RelativeDocumentMoniker": "PhoneApp_S12345678\\PhoneDetails.csv",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\PhoneDetails.csv",
+              "RelativeToolTip": "PhoneApp_S12345678\\PhoneDetails.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-04T03:02:30.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Phone.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\Phone.cs",
+              "RelativeDocumentMoniker": "PhoneApp_S12345678\\Phone.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\Phone.cs",
+              "RelativeToolTip": "PhoneApp_S12345678\\Phone.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAkwCEAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:58:33.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\Program.cs",
+              "RelativeDocumentMoniker": "PhoneApp_S12345678\\Program.cs",
+              "ToolTip": "C:\\Users\\REGEN WONG\\Downloads\\PRG2\\PracticalTest1_S12345678\\PhoneApp_S12345678\\PhoneApp_S12345678\\Program.cs",
+              "RelativeToolTip": "PhoneApp_S12345678\\Program.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAgwDgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-04T02:58:13.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

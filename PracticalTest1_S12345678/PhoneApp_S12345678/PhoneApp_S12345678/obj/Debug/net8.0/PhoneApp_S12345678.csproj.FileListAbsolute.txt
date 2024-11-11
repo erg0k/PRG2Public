@@ -1,0 +1,15 @@
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneDetails.csv
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneApp_S12345678.exe
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneApp_S12345678.deps.json
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneApp_S12345678.runtimeconfig.json
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneApp_S12345678.dll
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\bin\Debug\net8.0\PhoneApp_S12345678.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.AssemblyInfoInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.AssemblyInfo.cs
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.csproj.CoreCompileInputs.cache
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.dll
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\refint\PhoneApp_S12345678.dll
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.pdb
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\PhoneApp_S12345678.genruntimeconfig.cache
+C:\Users\REGEN WONG\Downloads\PRG2\PracticalTest1_S12345678\PhoneApp_S12345678\PhoneApp_S12345678\obj\Debug\net8.0\ref\PhoneApp_S12345678.dll
