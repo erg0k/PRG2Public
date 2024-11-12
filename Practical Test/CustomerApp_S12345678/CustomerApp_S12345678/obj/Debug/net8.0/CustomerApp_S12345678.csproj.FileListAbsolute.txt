@@ -1,0 +1,15 @@
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\Customers.csv
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\CustomerApp_S12345678.exe
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\CustomerApp_S12345678.deps.json
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\CustomerApp_S12345678.runtimeconfig.json
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\CustomerApp_S12345678.dll
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\bin\Debug\net8.0\CustomerApp_S12345678.pdb
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.AssemblyInfoInputs.cache
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.AssemblyInfo.cs
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.csproj.CoreCompileInputs.cache
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.dll
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\refint\CustomerApp_S12345678.dll
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.pdb
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\CustomerApp_S12345678.genruntimeconfig.cache
+C:\Users\ANYNAME\Downloads\PRG2\Practical Test\CustomerApp_S12345678\CustomerApp_S12345678\obj\Debug\net8.0\ref\CustomerApp_S12345678.dll

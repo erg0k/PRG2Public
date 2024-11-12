@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|c:\\users\\ANYNAME\\downloads\\prg2\\practical test\\customerapp_S12345678\\customerapp_S12345678\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|solutionrelative:customerapp_S12345678\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|c:\\users\\ANYNAME\\downloads\\prg2\\practical test\\customerapp_S12345678\\customerapp_S12345678\\customers.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|solutionrelative:customerapp_S12345678\\customers.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|c:\\users\\ANYNAME\\downloads\\prg2\\practical test\\customerapp_S12345678\\customerapp_S12345678\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F49523B4-4B63-41C0-874E-AA21614A0BC8}|CustomerApp_S12345678\\CustomerApp_S12345678.csproj|solutionrelative:customerapp_S12345678\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customers.csv",
+              "DocumentMoniker": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Customers.csv",
+              "RelativeDocumentMoniker": "CustomerApp_S12345678\\Customers.csv",
+              "ToolTip": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Customers.csv",
+              "RelativeToolTip": "CustomerApp_S12345678\\Customers.csv",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-11-12T06:38:10.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Customer.cs",
+              "RelativeDocumentMoniker": "CustomerApp_S12345678\\Customer.cs",
+              "ToolTip": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Customer.cs",
+              "RelativeToolTip": "CustomerApp_S12345678\\Customer.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwCoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:31:39.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Program.cs",
+              "RelativeDocumentMoniker": "CustomerApp_S12345678\\Program.cs",
+              "ToolTip": "C:\\Users\\ANYNAME\\Downloads\\PRG2\\Practical Test\\CustomerApp_S12345678\\CustomerApp_S12345678\\Program.cs",
+              "RelativeToolTip": "CustomerApp_S12345678\\Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T06:31:18.248Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
